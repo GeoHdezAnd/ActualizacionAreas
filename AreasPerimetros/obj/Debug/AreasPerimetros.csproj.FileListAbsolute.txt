@@ -1,0 +1,40 @@
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\bin\Debug\AreasPerimetros.exe.config
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\bin\Debug\AreasPerimetros.exe
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\bin\Debug\AreasPerimetros.pdb
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.csproj.AssemblyReference.cache
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.Form1.resources
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.Properties.Resources.resources
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.csproj.GenerateResource.cache
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.csproj.CoreCompileInputs.cache
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.exe
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.pdb
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.Areas.resources
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.Perimetros.resources
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.Cuadrado.resources
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.Rectangulo.resources
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.Tiangulo.resources
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.CuadradoP.resources
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.RectanguloP.resources
+C:\Users\Geovanni\Documents\SEMESTRE_7\MODELO DE SITIOS WEB\AreasPerimetros\AreasPerimetros\obj\Debug\AreasPerimetros.TrianguloP.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.csproj.AssemblyReference.cache
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.Areas.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.Circulo.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.Cuadrado.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.CuadradoP.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.Form1.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.Perimetros.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.Properties.Resources.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.Rectangulo.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.RectanguloP.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.Tiangulo.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.TrianguloP.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.csproj.GenerateResource.cache
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.csproj.CoreCompileInputs.cache
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.exe
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.pdb
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\bin\Debug\AreasPerimetros.exe.config
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\bin\Debug\AreasPerimetros.exe
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\bin\Debug\AreasPerimetros.pdb
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.Rombo.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.CirculoP.resources
+C:\Users\Geovanni\Documents\Semestre_8\desarrollo_de_modelos\ActualizacionAreas\AreasPerimetros\obj\Debug\AreasPerimetros.RomboP.resources
